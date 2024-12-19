@@ -3,4 +3,6 @@ WhatsApp Features
 1. Chat feature
 2. Status
 3. Call option (Audio call and video call)
-4. Upload attachments (Audio, video, imaages, documents)
+4. Upload attachments (Audio, video, images, documents)
+5. Last seen feature
+6. Community
