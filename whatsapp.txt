@@ -6,3 +6,5 @@ WhatsApp Features
 4. Upload attachments (Audio, video, images, documents)
 5. Last seen feature
 6. Community
+7. Adding Audio and video call feature with good quality
+8. Share screen
